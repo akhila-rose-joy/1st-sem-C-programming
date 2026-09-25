@@ -1,8 +1,8 @@
 [lcm.c](https://github.com/user-attachments/files/32664710/lcm.c)
 # 1st-sem-C-programming
 Foundational C programs done during my university lab classes
-*[maxof3RelationOp.c](https://github.com/user-attachments/files/32664712/maxof3RelationOp.c)
-*[sumofn.c](https://github.com/user-attachments/files/32664734/sumofn.c)
+* [maxof3RelationOp.c](https://github.com/user-attachments/files/32664712/maxof3RelationOp.c)
+* [sumofn.c](https://github.com/user-attachments/files/32664734/sumofn.c)
 *[increment.c](https://github.com/user-attachments/files/32664725/increment.c)
 *[grade.c](https://github.com/user-attachments/files/32664724/grade.c)
 *[factor.c](https://github.com/user-attachments/files/32664723/factor.c)
